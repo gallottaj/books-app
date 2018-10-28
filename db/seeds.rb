@@ -8,6 +8,7 @@
 
     Book.create(title: 'my_first_ book', author: 'tom stevens', genre: 'fiction')
     Book.create(title: 'my_second_ book', author: 'ron mevens', genre: 'non-fiction')
+
     
 
 
